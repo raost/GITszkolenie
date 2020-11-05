@@ -2,4 +2,7 @@ Opis projektu
 Test Gita
 ęąśżćółń ĘĄŚŻŹĆÓŁŃ
 
+To jest dodane w master
+
 Dodane w gałęzi master
+
