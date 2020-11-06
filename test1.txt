@@ -1,8 +1,7 @@
 Opis projektu
 Test Gita
-ęąśżćółń ĘĄŚŻŹĆÓŁŃ
+ęąśżćółń ĘĄŚŻŹĆÓŁŃ -test
 
 To jest dodane w master
 
-Dodane w gałęzi master
-
+To dodałem na github
